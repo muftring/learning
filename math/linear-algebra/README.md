@@ -4,9 +4,16 @@
 
 
 -----
+
+**Topics to learn / review**
+- Eigenvectors and Eigenvalues
+- Perron–Frobenius theorem
+
+-----
 # References
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
+- [Linear Algebra (Wikipedia)](https://en.wikipedia.org/wiki/Linear_algebra)
 - [3Blue1Brown (YouTube channel ~ Linear Algebra playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [Eigenvectors and Eigenvalues Explained Visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+- [Perron–Frobenius theorem](https://en.wikipedia.org/wiki/Perron–Frobenius_theorem)
